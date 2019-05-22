@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "DFWHC"
   company_url = "https://dfwhc.org"
   location = "Dallas, Texas"
-  date_start = "May 2013"
+  date_start = "May 1, 2013"
   date_end = ""
   description = """I lead, strategize, and manage public and population health initiatives for the Dallas-Fort Worth Hospital Council Foundation, striving for the ultimate goal of addressing disparities and enhancing the quality of healthcare in North Texas. I contribute to several statewide and regional initiatives with active participation in boards and committees. I lead the North Texas Community Health Collaborative (CHC) which has more than 40+ member organizations including 11 health systems (98 hospitals) working together to address health disparities in this region.
   Responsibilities include:
@@ -37,9 +37,9 @@ date_format = "Jan 2006"
   title = "Senior Scientist"
   company = "University of California, Berkeley"
   company_url = "berkeley.edu"
-  location = "California"
-  date_start = "Feb 2009"
-  date_end = "Apr 2013"
+  location = "Berkeley, California"
+  date_start = "February 1, 2009"
+  date_end = "April 31, 2013"
   description = """ 
   * Worked at Dr. Robert C and Veronica Atkins Center for Weight and Health
     http://cwh.berkeley.edu/
