@@ -22,20 +22,20 @@ bio: My interests include public health initiatives.
 
 interests:
 - Public Health
-- Reseach
-- Community
+- Reseach Leadership
+- Community Initiatives
 
 education:
   courses:
+  - course: Exexutive Leadership Program
+    institution: North Texas Commission
+    year: 2018
+  - course: NIH Health Disparity Fellowship
+    institution: University of North Texas
+    year: 2013
   - course: PhD
     institution: University of Rajasthan
     year: 2001
-  - course: MSc in Science
-    institution: University of Rajasthan
-    year: 1998
-  - course: BSc in Science
-    institution: University of Rajasthan
-    year: 1996
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,15 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=spObXBkAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
