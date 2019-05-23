@@ -56,4 +56,13 @@ My current priorities include
 Diabetes and Cardiovascular Research facility, coordinated with the facility Director and Faculty Dean to develop key strategies for the new research center.
 Utilized funding to initiate and manage scientific research; executed research projects; managed research labs, supply-chain, and procurement; established health and safety guidelines; ensured national regulatory and ethical standards; managed and supervised technical staff, doctoral and post-doctoral fellows"""
 
+[[experience]]
+  title = "Post Doctoral Research Fellow"
+  company = "University of Readng"
+  company_url = "reading.ac.uk"
+  location = "England"
+  date_start = "2002-01-01"
+  date_end = "2006-01-31"
+  description = """Conducted research on lipoprotein metabolism, Diabetes and Atherosclerosis."""
+
 +++
