@@ -39,10 +39,21 @@ My current priorities include
   company_url = "berkeley.edu"
   location = "California"
   date_start = "2009-01-01"
-  date_end = "2013-04-31"
+  date_end = "2013-04-30"
   description = """
   * Worked at Dr. Robert C and Veronica Atkins Center for Weight and Health http://cwh.berkeley.edu/ http://npi.ucanr.edu/
 
   * My responsibilities included conducting, managing and supervising interventions and community-based research and health promotion     programs. Notable programs were, statewide evaluation healthy beverage policy for California child cares (AB 2084); evaluation of       California Department of Public Health funded peer-led health promotion programs; research program and clinical trial called Taking     Action Together (TAT), a three year USDA funded diabetes prevention program for overweight and obese children."""
+
+[[experience]]
+  title = "Senior Scientist and Lab Manager"
+  company = "University of Highlands & Islands"
+  company_url = "uhi.ac.uk"
+  location = "Scotland"
+  date_start = "2006-10-01"
+  date_end = "2008-12-31"
+  description = """
+Diabetes and Cardiovascular Research facility, coordinated with the facility Director and Faculty Dean to develop key strategies for the new research center.
+Utilized funding to initiate and manage scientific research; executed research projects; managed research labs, supply-chain, and procurement; established health and safety guidelines; ensured national regulatory and ethical standards; managed and supervised technical staff, doctoral and post-doctoral fellows"""
 
 +++
