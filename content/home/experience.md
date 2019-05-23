@@ -25,11 +25,14 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  I lead, strategize, and manage public and population health initiatives for the Dallas-Fort Worth Hospital Council Foundation, striving for the ultimate goal of addressing disparities and enhancing the quality of healthcare in North Texas. I contribute to several statewide and regional initiatives with active participation in boards and committees. I lead the North Texas Community Health Collaborative (CHC) which has more than 40+ member organizations including 11 health systems (98 hospitals) working together to address health disparities in this region. Responsibilities include:
+
+My division supports hospital partners, non-profit organizations and universities through claims data warehouse of over 70 million hospital visits for than 12 million patients.
+My current priorities include
+strategic decision-making for addressing health disparities
+improving healthcare access, health equity, and literacy, care coordination, mental/ behavioral health
+developing best practices, and workforce prediction in health care specialties.
+
   """
 
 [[experience]]
